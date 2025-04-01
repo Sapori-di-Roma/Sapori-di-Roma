@@ -19,4 +19,4 @@ Criar um site funcional que permitirá aos clientes fazerem pedidos de maneira r
 - Luiz Miguel Lima de Souza (@LMSLima)  
 - Vinicius Eduardo Hilario (@duardovinicius004)  
 
-🔗 **Link do Projeto no GitHub:** [https://github.com/SEU-USUARIO/pizzaria-online](https://github.com/SEU-USUARIO/pizzaria-online)
+🔗 **Link do Projeto no GitHub:** [https://github.com/Sapori-di-Roma/Sapori-di-Roma]
