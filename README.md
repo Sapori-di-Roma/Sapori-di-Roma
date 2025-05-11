@@ -36,3 +36,11 @@ Criar um site funcional que permitirá aos clientes fazerem pedidos de maneira r
 - Interface amigável para escolha de pizzas
 - Integração com meios de pagamento
 - Sistema de acompanhamento de pedidos
+
+  ## 4. Requisitos Funcionais
+
+  [https://docs.google.com/document/d/1AhmPeu3wwXYUsXqjBdqkwR10PlFhnzJScJ5cO3jCH_0/edit?usp=sharing]
+
+  ## 5. Modelo Relacionamento-Entidade
+
+  [https://drive.google.com/file/d/1EOAQbWciptWCKiaiPUDmjYbpCEYZYV3w/view?usp=sharing]
