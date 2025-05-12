@@ -44,3 +44,7 @@ Criar um site funcional que permitirá aos clientes fazerem pedidos de maneira r
   ## 5. Modelo Relacionamento-Entidade
 
   [https://drive.google.com/file/d/1EOAQbWciptWCKiaiPUDmjYbpCEYZYV3w/view?usp=sharing]
+
+  ## 6. Casos de uso
+
+  [https://drive.google.com/file/d/1dMzJjyuTmHmvQYhzqzyYykYJxF1R-QnA/view?usp=sharing]
